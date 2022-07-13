@@ -4,6 +4,13 @@ The purpose of this repository is to supplement my theoretical study of machine 
 ## Contents
 You can find implementations of the following algorithms:  
 1. Models based on the Exponential Family distributions such as:
+* Linear Regression
+2. 
+
+
+
+
+1. Models based on the Exponential Family distributions such as:
   * Linear Regression
   * Logistic Regression
   * Poisson Regression
