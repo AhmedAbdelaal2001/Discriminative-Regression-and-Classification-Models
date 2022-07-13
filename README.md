@@ -1,2 +1,3 @@
 # Discriminative-Regression-and-Classification-Models---From-Scratch
-Implementations of some standard discriminative machine learning algorithms in Python from scratch, without using standard ML libraries such as Scikit-learn or Pytorch.
+## Purpose:
+The purpose of this repository is to supplement my theoretical study of machine learning concepts, and reinforce the fundamental principles of statistical learning algorithms by implementing them without making use of their standard libraries.  
