@@ -8,4 +8,5 @@ You can find implementations of the following algorithms:
    * Logistic Regression (for predicting a Bernoulli random variable i.e. Binary Classification).
    * Poisson Regression (for predicting a Poisson random variable).
 2. The Perceptron.
+3. Decision Trees.
 
