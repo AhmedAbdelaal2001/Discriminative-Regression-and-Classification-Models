@@ -7,6 +7,5 @@ You can find implementations of the following algorithms:
    * Linear Regression (for errors following a Gaussian distribution).
    * Logistic Regression (for predicting a Bernoulli random variable i.e. Binary Classification).
    * Poisson Regression (for predicting a Poisson random variable).
-2. The Perceptron.
+2. The Perceptron Classifier.
 3. Decision Trees.
-
