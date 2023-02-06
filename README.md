@@ -1,4 +1,4 @@
-# Discriminative Regression and Classification Models (From Scratch)
+# Regression and Classification Models (From Scratch)
 ## Purpose:
 The purpose of this repository is to complement my theoretical study of foundational machine learning concepts. It contains my solutions to some of the problem sets of Stanford's CS229 course, without making use of ML-specific libraries, such as scikit-learn.  
 ## Contents
