@@ -8,5 +8,3 @@ You can find implementations of the following algorithms:
    * Logistic Regression.
    * Poisson Regression.
 2. The Perceptron Classifier.
-3. Support Vector Machine.
-4. Decision Trees.
